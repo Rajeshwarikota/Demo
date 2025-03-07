@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\SelfPractise\SelfPractise\bin\Debug\SelfPractise.exe.config
+C:\Users\LENOVO\source\repos\SelfPractise\SelfPractise\bin\Debug\SelfPractise.exe
+C:\Users\LENOVO\source\repos\SelfPractise\SelfPractise\bin\Debug\SelfPractise.pdb
+C:\Users\LENOVO\source\repos\SelfPractise\SelfPractise\obj\Debug\SelfPractise.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\SelfPractise\SelfPractise\obj\Debug\SelfPractise.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\SelfPractise\SelfPractise\obj\Debug\SelfPractise.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\SelfPractise\SelfPractise\obj\Debug\SelfPractise.exe
+C:\Users\LENOVO\source\repos\SelfPractise\SelfPractise\obj\Debug\SelfPractise.pdb
+D:\source\repos\SelfPractise\SelfPractise\obj\Debug\SelfPractise.csproj.AssemblyReference.cache
+D:\source\repos\SelfPractise\SelfPractise\obj\Debug\SelfPractise.csproj.CoreCompileInputs.cache
+D:\source\repos\SelfPractise\SelfPractise\obj\Debug\SelfPractise.exe
+D:\source\repos\SelfPractise\SelfPractise\obj\Debug\SelfPractise.pdb
+D:\source\repos\SelfPractise\SelfPractise\bin\Debug\SelfPractise.exe.config
+D:\source\repos\SelfPractise\SelfPractise\bin\Debug\SelfPractise.exe
+D:\source\repos\SelfPractise\SelfPractise\bin\Debug\SelfPractise.pdb
